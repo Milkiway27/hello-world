@@ -1,2 +1,2 @@
 # hello-world
-start jorney
+start of journey
